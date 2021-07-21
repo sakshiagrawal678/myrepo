@@ -1,0 +1,115 @@
+Select * from Orders O
+Inner Join Customers C on O.CustomerID = C.CustomerID 
+Apprentice Training - SQL (1)
+
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_join_inner
+
+
+for changing password
+https://password.3pillarglobal.com/
+
+https://app.diagrams.net/
+
+
+
+
+
+
+
+
+project links
+https://docs.google.com/document/d/1aCaBtnMNtNHzv3N2aBUM4DJ5tPuQwgf4XeR7pBwoscM/edit?usp=sharing
+
+https://docs.google.com/document/d/1aCaBtnMNtNHzv3N2aBUM4DJ5tPuQwgf4XeR7pBwoscM/edit?usp=sharing
+https://docs.google.com/document/d/1SzJuPmQdVwBovrtW72v6wViUybEXbGt1nC3HhRaLuWk/edit#heading=h.gjdgxs
+
+  
+
+important git links
+https://ndpsoftware.com/
+git-cheatsheet.html#loc=workspace;
+https://git-scm.com/
+https://git-scm.com/book/en/v2
+
+
+cop session recoding of flex and grid by akshay(24 jun)
+https://drive.google.com/drive/u/1/folders/18smcs4r-NuW1ByXzIqwCVhJ33xWbJqwt
+
+Najmus Saqib11:50 AM
+
+https://www.w3schools.com/html/html_responsive.asp
+https://github.com/archeranimesh/udemy-
+htmlcss/tree/master/SRC
+
+
+
+
+
+
+.net class networking links
+https://www.youtube.com/watch?v=oa9m8321_nw
+
+
+https://www.nginx.com/learn/web-server/
+
+
+https://www.ics.uci.edu/~fielding/pubs/dissertation/web_arch_domain.htm#sec_4_1
+
+
+https://channel9.msdn.com/Blogs/Taste-of-Premier/TechNet-Radio-IT-Time-In-Depth-walk-through-of-the-5-Basic-Protocols-in-the-TCPIP-stack?term=TCP%20IP&lang-en=true
+
+- IIS
+- Nginx
+- Apache
+- Tomcat
+- NodeJs (The special case)
+- Kestrel (The new kid in .net world and cross platform)"
+
+
+
+note 
+1-) to get out from command (node) in cmd is ctrl+c  or  ctrl+d  or .exit
+
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+
+{
+
+Git Commands
+# Initialize a repo
+git init
+ 
+# Add to local repo
+git add .
+ 
+# Commit to local repo
+git commit -m 'Initial Commit'
+ 
+# Add remote github repo
+git remote add origin https://github.com/USERNAME/REPO.git
+ 
+# Initial push
+git push -u origin master
+ 
+# Pushes after initial
+git push
+  Links
+Namecheap Affiliate Link:
+
+https://namecheap.pxf.io/c/1299552/386170/5618
+
+Netlify:
+
+http://www.netlify.com
+
+Download Git:
+
+http://www.git-scm.com
+
+}
+
+
+
+
